@@ -1,0 +1,26 @@
+{"BookShelf": {"Book": [
+    {
+        "numberOfPages": 180,
+        "publishedYear": 1925,
+        "title": "The Great Gatsby",
+        "authors": ["F. Scott Fitzgerald"]
+    },
+    {
+        "numberOfPages": 328,
+        "publishedYear": 1949,
+        "title": "1984",
+        "authors": ["George Orwell"]
+    },
+    {
+        "numberOfPages": 310,
+        "publishedYear": 1937,
+        "title": "The Hobbit",
+        "authors": ["J.R.R. Tolkien"]
+    },
+    {
+        "numberOfPages": 432,
+        "publishedYear": 1813,
+        "title": "Pride and Prejudice",
+        "authors": ["Jane Austen"]
+    }
+]}}
