@@ -27,7 +27,6 @@ __pycache__/
 
 # PyInstaller
 *.spec
-dist/
 predict_server
 
 Finalproject/model/dist/predict_server
