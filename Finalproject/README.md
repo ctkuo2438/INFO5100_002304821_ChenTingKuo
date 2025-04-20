@@ -57,7 +57,12 @@ cd dist
 cd ChenTingKuo/INFO5100_002304821_ChenTingKuo
 mvn javafx:run
 ```
-#### 5. Finish
+#### 5. Inference
+- Draw a digit(0-9) on the canvas.
+- Show the predict digit number and the confidence score.
+[Inference Demo](https://drive.google.com/drive/folders/1PYl1CNd5Loe5H7hwOygpG5vszh7OxzJW?usp=drive_link)
+
+#### 6. Finish
 - Press Ctrl + C in the server terminal to stop the inference server
 - Close the Java GUI window
 
