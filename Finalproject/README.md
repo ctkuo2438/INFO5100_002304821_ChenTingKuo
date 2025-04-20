@@ -14,15 +14,15 @@ This project is a handwritten digit recognizer that allows users to draw numbers
 
 ## 🚀 Project Execution Guide (For Instructor / TA)
 
-### 🔧 Prerequisites
+### Prerequisites
 - Java 17+
 - Maven
 - Internet access to clone the repository
 - A Unix-based system (macOS/Linux) or Git Bash (if on Windows)
 
-### 📦 Step-by-Step Instructions
+### Step-by-Step Instructions
 
-#### ✅ 1. Clone the Project
+#### 1. Clone the Project
 
 ```
 mkdir ChenTingKuo
@@ -30,7 +30,7 @@ cd ChenTingKuo
 git clone https://github.com/ctkuo2438/INFO5100_002304821_ChenTingKuo.git
 cd INFO5100_002304821_ChenTingKuo/Finalproject/model
 ```
-#### ✅ 2. Download the Python Inference Server (Required)
+#### 2. Download the Python Inference Server (Required)
 
 ⚠️ GitHub does not allow files larger than 100MB.
 Please manually download the TFLite server executable:
@@ -45,19 +45,19 @@ You should now have:
 ```
 Finalproject/model/dist/predict_server
 ```
-#### ✅ 3. Run the Python TFLite Inference Server
+#### 3. Run the Python TFLite Inference Server
 ```
 cd dist
 ./predict_server
 # Server should start at http://127.0.0.1:5050
 
 ```
-#### ✅ 4. Open Another Terminal and Run the JavaFX GUI
+#### 4. Open Another Terminal and Run the JavaFX GUI
 ```
 cd ChenTingKuo/INFO5100_002304821_ChenTingKuo
 mvn javafx:run
 ```
-#### ✅ 5. Finish
+#### 5. Finish
 - Press Ctrl + C in the server terminal to stop the inference server
 - Close the Java GUI window
 
