@@ -2,6 +2,16 @@
 
 This project is a handwritten digit recognizer that allows users to draw numbers (0–9) via a JavaFX GUI. The image is sent to a local Python server that performs inference using a pre-trained and converted TensorFlow Lite (TFLite) model.
 
+## MNIST dataset
+
+🔗 [Kaggle Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/overview)
+
+👉 The data files `train.csv` and `test.csv` contain gray-scale images of hand-drawn digits, from zero through nine.
+
+👉 The `train.csv` file contains:
+- `label`: The digit (0-9) that the image represents.
+- Remaining 784 columns: Pixel values (flattened 28x28 image).
+
 ## 🚀 Project Execution Guide (For Instructor / TA)
 
 ### 🔧 Prerequisites
@@ -24,7 +34,7 @@ cd INFO5100_002304821_ChenTingKuo/Finalproject/model
 
 ⚠️ GitHub does not allow files larger than 100MB.
 Please manually download the TFLite server executable:
-🔗 https://drive.google.com/file/d/1xvq_X0NxtxDpyRFEeoL05AlA6CV__moU/view?usp=drive_link
+🔗 [Predict_server download link](https://drive.google.com/file/d/1xvq_X0NxtxDpyRFEeoL05AlA6CV__moU/view?usp=drive_link)
 
 Then unzip it into the dist/ folder:
 ```
