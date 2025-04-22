@@ -80,3 +80,13 @@ mvn javafx:run
 - Name: Yize Liu
 - ID: 002369066
 - Course: INFO 5100
+
+#### 👨‍💻 Group Members
+
+- **Name**: Chen-Ting Kuo  
+  **ID**: 002304821  
+  **Course**: INFO 5100  
+
+- **Name**: Yize Liu  
+  **ID**: 002369066  
+  **Course**: INFO 5100
