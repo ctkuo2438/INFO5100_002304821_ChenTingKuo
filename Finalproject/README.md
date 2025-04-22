@@ -52,7 +52,7 @@ cd dist
 # Server should start at http://127.0.0.1:5050
 
 ```
-If you see the following system prompt: "Apple could not verify “predict_server” is free of malware that may harm your Mac or compromise your privacy."
+If you see the following system prompt: "Apple could not verify “predict_server” is free of malware that may harm your Mac or compromise your privacy."  
 Go to System Settings and click the button as shown in the image below.
 ![Screenshot 2025-04-22 at 2 14 33 PM](https://github.com/user-attachments/assets/823ed7a8-a30b-44e3-a8ef-95b309c88ab0)
 
@@ -71,7 +71,11 @@ mvn javafx:run
 - Close the Java GUI window
 
 
-#### 👨‍💻 Author
+#### 👨‍💻 Group Members
 - Name: Chen-Ting Kuo
 - ID: 002304821
+- Course: INFO 5100
+
+- - Name: Yize Liu
+- ID: 002369066
 - Course: INFO 5100
