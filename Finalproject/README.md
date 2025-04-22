@@ -75,7 +75,7 @@ mvn javafx:run
 - Name: Chen-Ting Kuo
 - ID: 002304821
 - Course: INFO 5100
-
+<br>
 - Name: Yize Liu
 - ID: 002369066
 - Course: INFO 5100
