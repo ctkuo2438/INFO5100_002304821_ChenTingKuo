@@ -70,17 +70,6 @@ mvn javafx:run
 - Press Ctrl + C in the server terminal to stop the inference server
 - Close the Java GUI window
 
-
-#### 👨‍💻 Group Members
-- Name: Chen-Ting Kuo
-- ID: 002304821
-- Course: INFO 5100  
-
-
-- Name: Yize Liu
-- ID: 002369066
-- Course: INFO 5100
-
 #### 👨‍💻 Group Members
 
 - **Name**: Chen-Ting Kuo  
